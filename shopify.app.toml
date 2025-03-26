@@ -3,7 +3,7 @@
 client_id = "4c2bc299a9b33dd16fcd457b89d12ee8"
 name = "product-table-app"
 handle = "product-table-app"
-application_url = "https://realistic-dried-welfare-sherman.trycloudflare.com"
+application_url = "https://collective-cop-mean-cable.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://realistic-dried-welfare-sherman.trycloudflare.com/auth/callback",
-  "https://realistic-dried-welfare-sherman.trycloudflare.com/auth/shopify/callback",
-  "https://realistic-dried-welfare-sherman.trycloudflare.com/api/auth/callback"
+  "https://collective-cop-mean-cable.trycloudflare.com/auth/callback",
+  "https://collective-cop-mean-cable.trycloudflare.com/auth/shopify/callback",
+  "https://collective-cop-mean-cable.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
